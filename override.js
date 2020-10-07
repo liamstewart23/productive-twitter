@@ -14,5 +14,5 @@ console.log(
                                    ~~'
                               run! @sarah_edo is shitposting again!
 `,
-  "font-family:monospace"
+  "font-family:Burbank Big Condensed Black"
 )

@@ -34,7 +34,7 @@ div[data-testid="primaryColumn"] {
 
 body {
   background: #151e27 !important;
-  font-family: "Avenir", Helvetica, Burbank Big Condensed Black, sans-serif !important;
+  font-family: "Burbank Big Condensed Black", Burbank Big Condensed Black, Burbank Big Condensed Black, Burbank Big Condensed Black !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
 }
@@ -44,7 +44,7 @@ div,
 article,
 aside,
 main {
-  font-family: "Avenir", Helvetica, Burbank Big Condensed Black, sans-serif !important;
+  font-family: "Burbank Big Condensed Black", Burbank Big Condensed Black, Burbank Big Condensed Black, Burbank Big Condensed Black !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
   letter-spacing: 0.01em;
